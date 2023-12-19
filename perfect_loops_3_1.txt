@@ -1,0 +1,7 @@
+Fighting -> Rock -> Flying (<- 0.5x | 2x ->)
+Poison -> Grass -> Ground (<- 0.5x | 2x ->)
+Rock -> Fire -> Steel (<- 0.5x | 2x ->)
+Rock -> Ice -> Grass (<- 1x | 2x ->)
+Ghost -> Ghost -> Ghost (<- 2x | 2x ->)
+Fire -> Grass -> Water (<- 0.5x | 2x ->)
+Dragon -> Dragon -> Dragon (<- 2x | 2x ->)
