@@ -1,0 +1,5 @@
+Flying -> Grass -> Ground -> Rock (<- 0.5x | 2x ->)
+Ground -> Rock -> Fire -> Grass (<- 0.5x | 2x ->)
+Bug -> Grass -> Water -> Fire (<- 0.5x | 2x ->)
+Ghost -> Ghost -> Ghost -> Ghost (<- 2x | 2x ->)
+Dragon -> Dragon -> Dragon -> Dragon (<- 2x | 2x ->)

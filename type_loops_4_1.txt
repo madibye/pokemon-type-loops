@@ -1,0 +1,31 @@
+Fighting -> Steel -> Rock -> Flying
+Fighting -> Rock -> Ice -> Flying
+Fighting -> Steel -> Ice -> Flying
+Fighting -> Rock -> Bug -> Psychic
+Fighting -> Dark -> Ghost -> Psychic
+[!!] Flying -> Grass -> Ground -> Rock (<- 0.5x | 2x ->)
+Flying -> Grass -> Ground -> Electric
+Flying -> Bug -> Grass -> Rock
+Flying -> Grass -> Water -> Rock
+Flying -> Grass -> Rock -> Ice
+Poison -> Grass -> Water -> Ground
+Poison -> Fairy -> Dark -> Psychic
+Ground -> Rock -> Bug -> Grass
+Ground -> Steel -> Rock -> Ice
+[!!] Ground -> Rock -> Fire -> Grass (<- 0.5x | 2x ->)
+Ground -> Rock -> Fire -> Ice
+Ground -> Rock -> Ice -> Grass
+Ground -> Fire -> Bug -> Grass
+Ground -> Fire -> Steel -> Ice
+Ground -> Steel -> Ice -> Grass
+Ground -> Fire -> Grass -> Water
+Ground -> Fire -> Ice -> Grass
+Rock -> Fire -> Bug -> Grass
+Rock -> Bug -> Grass -> Water
+Rock -> Fire -> Grass -> Water
+Rock -> Fire -> Ice -> Grass
+Rock -> Ice -> Grass -> Water
+[!!] Bug -> Grass -> Water -> Fire (<- 0.5x | 2x ->)
+[!!] Ghost -> Ghost -> Ghost -> Ghost (<- 2x | 2x ->)
+Fire -> Ice -> Grass -> Water
+[!!] Dragon -> Dragon -> Dragon -> Dragon (<- 2x | 2x ->)
